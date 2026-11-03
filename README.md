@@ -1,21 +1,91 @@
-# 💫 About Me:
-👩‍💻 About Me<br><br>Hi, I’m Vasudha Pasumarthy, a passionate AI/ML enthusiast and data-driven problem solver focused on building intelligent, scalable solutions.<br><br>I enjoy working at the intersection of machine learning, data analytics, and real-world applications, where I can turn complex data into meaningful insights and impactful systems.<br><br>🚀 What I Do<br>🤖 Build machine learning models and end-to-end ML pipelines<br>📊 Analyze data to extract insights using Python, SQL, and visualization tools<br>🧠 Work with NLP, Computer Vision, and AI-driven systems<br>☁️ Explore scalable deployments using cloud platforms and modern data stacks<br><br>🛠️ Tech Stack<br>Languages: Python, SQL<br>Libraries & Frameworks: Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy<br>Data & Visualization: Power BI, Matplotlib, Seaborn<br>Tools & Platforms: AWS, Firebase, Git, Docker<br>Concepts: Machine Learning, Deep Learning, Data Engineering, RAG, LLMs<br><br>📌 Interests<br>🔍 AI/ML Research & Applications<br>📈 Data Analytics & Decision Systems<br>🧩 Solving real-world problems with technology<br>🌐 Building scalable and impactful products<br><br>🌱 Currently Exploring<br>Large Language Models (LLMs) & Agentic AI systems<br>Retrieval-Augmented Generation (RAG)<br>Reinforcement Learning<br>End-to-end production ML systems<br><br><br>📫 Let’s Connect<br>💼 Open to collaborations and opportunities in AI/ML & Data Science<br>🌟 Always learning, building, and improving
+# 👋 Hey, I'm Vasudha Pasumarthy! 👩‍💻
 
+## About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vasudha-pasumarthy-141790213) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasudhap2@gmail.com) 
+I'm an AI/ML researcher and data engineer based in Sandy, Utah, passionate about building systems that work in the real world.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+I work across LLM fine-tuning, multi-agent pipelines, RAG-based NLP, and data infrastructure. I care about how models behave, where they fail, and how to make them more reliable.
 
+I enjoy solving problems that sit at the intersection of data, models, and real-world impact.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamimpeccable&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Check out my [website](https://vasudha-pasumarthy-9yi53wm.greta.sh/) to learn more about me.
+- Stay updated with my journey on [LinkedIn](www.linkedin.com/in/vasudha-pasumarthy-141790213).
+- Explore my [blog](https://medium.com/@vasudhap2), where I share what I'm learning.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamimpeccable&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Snapshot — What I've Built & What I'm Building
+
+### 🕵️ AgentSleuth — LLM Observability Dashboard (Current)
+
+AgentSleuth is an LLM observability platform that monitors LLM performance, tracks resource usage, and helps identify latency and reliability issues across model interactions.
+
+Built with Python, Hugging Face Transformers, PostgreSQL, and Power BI, it captures request-level telemetry and transforms raw model interactions into measurable performance insights.
+
+→ Tracks **3 core metrics:** response latency, input tokens, and output tokens.
+→ Successfully implemented a **PostgreSQL-backed telemetry pipeline** for storing and analyzing LLM requests.
+
+🔗 GitHub: [link](https://github.com/iamimpeccable/AgentSleuth---LLM-Observability-Dashboard)
+
+### 🧠 AI Knowledge Assistant
+
+A RAG-based assistant that answers questions over local documents.
+It chunks and embeds documents, retrieves relevant context, and generates grounded answers.
+
+- Built with Gemini, LangChain, FAISS, and Streamlit
+- Evaluated with a 20-question retrieval test
+- 🔗 GitHub: [link](https://github.com/iamimpeccable/AI-Knowledge-Assistant)
+
+### ⚙️ TrueCaptcha (Co-Founder)
+
+Built and scaled an AI SaaS CAPTCHA-solving platform with full-stack architecture and distributed processing.
+
+→ Scaled to 900K+ API requests/day (1M peak) across 330+ users  
+→ Generated ~$20K+ revenue with high-concurrency, low-latency systems  
+→ Reduced latency ~7s → ~1s (~85%) using caching + async pipelines  
+🌐 Learn more: [truecaptcha.org](https://truecaptcha.org)
+
+### 🔬 ProSense — Adversarial LLM Fine-Tuning (Research)
+
+Co-authored paper on adversarial fine-tuning of LLMs (Mistral-7B, LoRA), published at SEDE 2025.
+
+- 🔗 Paper: [link](YOUR_PAPER_URL)
+
+---
+
+## 💼 Professional Experience
+
+- Research Assistant — University of Southern Mississippi (Sep 2025 – May 2026)
+- Graduate Research Assistant — University of Southern Mississippi (Sep – Dec 2023)
+- Lampro Tech — SDE Intern 
+
+---
+
+## 🎯 Focus Areas
+
+- LLM Fine-Tuning & Evaluation
+- RAG & Multi-Agent Pipelines
+- Data Engineering & Infrastructure
+- AI Observability & Failure Analysis
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** vasudhap2@gmail.com
+- 🔗 **LinkedIn:** [www.linkedin.com/in/vasudha-pasumarthy-141790213]
+- 📍 **Location:** Sandy, UT
+
+Open to AI/ML engineering, data engineering, and research roles. Let's connect! 🚀
