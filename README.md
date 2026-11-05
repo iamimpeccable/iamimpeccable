@@ -9,7 +9,7 @@ I work across LLM fine-tuning, multi-agent pipelines, RAG-based NLP, and data in
 I enjoy solving problems that sit at the intersection of data, models, and real-world impact.
 
 - Check out my [website](https://vasudha-pasumarthy-9yi53wm.greta.sh/) to learn more about me.
-- Stay updated with my journey on [LinkedIn](www.linkedin.com/in/vasudha-pasumarthy-141790213).
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/vasudha-pasumarthy-141790213).
 - Explore my [blog](https://medium.com/@vasudhap2), where I share what I'm learning.
 
 ---
@@ -49,7 +49,7 @@ Built and scaled an AI SaaS CAPTCHA-solving platform with full-stack architectur
 
 Co-authored paper on adversarial fine-tuning of LLMs (Mistral-7B, LoRA), published at SEDE 2025.
 
-- 🔗 Paper: [link](YOUR_PAPER_URL)
+- 🔗 Paper: [link](10.1007/978-3-032-08649-5_20)
 
 ---
 
