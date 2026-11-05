@@ -49,7 +49,7 @@ Built and scaled an AI SaaS CAPTCHA-solving platform with full-stack architectur
 
 Co-authored paper on adversarial fine-tuning of LLMs (Mistral-7B, LoRA), published at SEDE 2025.
 
-- 🔗 Paper: [link](10.1007/978-3-032-08649-5_20)
+- 🔗 Paper: [link](https://link.springer.com/chapter/10.1007/978-3-032-08649-5_20)
 
 ---
 
